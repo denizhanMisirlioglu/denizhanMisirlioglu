@@ -10,34 +10,57 @@
 <!-- Yazı Bloğu -->
 <div style="display: flex; justify-content: center; text-align: left; margin: 0 auto; width: 80%;">
   <p>
-    I make elegantly professional 📱✨ <strong>Mobile Applications</strong> with <strong>Flutter</strong> 🐦, <strong>Kotlin</strong> 🟣, and <strong>Swift</strong> 🍎.  
-    I also craft <strong>UI/UX Designs</strong> 🎨 and build clean, maintainable software projects. 🚀  
+    I make elegantly professional 📱✨ <strong>Mobile Applications</strong> with <strong>Flutter</strong> 🐦, <strong>Kotlin</strong> 🟣, <strong>Swift</strong> 🍎, <strong>React Native</strong> ⚛️, and <strong>Dart</strong> 🎯.  
+    I also craft <strong>UI/UX Designs</strong> 🎨 and build clean, maintainable software projects. 🚀
   </p>
 
-  <ul style="list-style-type: none; padding-left: 20px; margin-left: 20px;">
-  <li style="margin-bottom: 8px; text-indent: 15px;"><strong>🧐 Interested in full-stack development. Recent focus on mobile applications.</strong></li>
-  <li style="margin-bottom: 8px; text-indent: 15px;"><strong>💼 Currently a Freelance Mobile Developer</strong> and former <strong>Junior Android Developer.</strong></li>
-  <li style="margin-bottom: 8px; text-indent: 15px;"><strong>🎓 Graduated</strong> in Computer Engineering from Dokuz Eylül University.</li>
-  <li style="margin-bottom: 8px; text-indent: 15px;"><strong>🌱 Currently learning</strong> cross-platform solutions, Android & iOS native development.</li>
-  <li style="margin-bottom: 8px; text-indent: 15px;"><strong>📚 Reading:</strong> Startups, product design, and growth strategies.</li>
-  <li style="margin-bottom: 8px; text-indent: 15px;"><strong>🎯 Goal:</strong> To build impactful applications and contribute to great teams.</li>
+<ul style="list-style-type: none; padding-left: 0; margin: 0;">
+  <li><strong>🧐 Interested in full-stack development. Recent focus on mobile applications.</strong></li>
+  <li><strong>💼 Currently a Freelance Mobile Developer</strong> and former <strong>Junior Android Developer.</strong></li>
+  <li><strong>🎓 Graduated</strong> in Computer Engineering from Dokuz Eylül University.</li>
+  <li><strong>🌱 Currently learning</strong> cross-platform solutions, Android & iOS native development.</li>
+  <li><strong>📚 Reading:</strong> Startups, product design, and growth strategies.</li>
+  <li><strong>🎯 Goal:</strong> To build impactful applications and contribute to great teams.</li>
 </ul>
+
+
 
 </div>
 
 ---
 
 <!-- Social Links -->
-<div align="center">
-  <p style="display: inline-flex; align-items: center; justify-content: center; gap: 50px; margin: 0;">
-    <a href="https://www.linkedin.com/in/denizhan-misirlioglu/" target="_blank" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="https://yourwebsite.com" target="_blank" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/Portfolio-%23FF7139.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio">
-    </a>
-  </p>
+<div align="center" style="margin: 20px 0;">
+  <a href="https://www.linkedin.com/in/denizhan-misirlioglu/" target="_blank" 
+     style="display: inline-flex; align-items: center; text-decoration: none; background-color: #0077B5; color: white; border-radius: 6px; padding: 10px 20px; font-family: Arial, sans-serif; font-weight: bold;">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn Logo" width="20" height="20" style="margin-right: 8px;">
+    LinkedIn
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- Boşluk ekleme (5 tane non-breaking space) -->
+  <a href="https://yourwebsite.com" target="_blank" 
+     style="display: inline-flex; align-items: center; text-decoration: none; background-color: #333333; color: white; border-radius: 6px; padding: 10px 20px; font-family: Arial, sans-serif; font-weight: bold;">
+    <img src="https://cdn-icons-png.flaticon.com/512/1087/1087815.png" alt="Portfolio Logo" width="20" height="20" style="margin-right: 8px;">
+    Portfolio
+  </a>
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 
