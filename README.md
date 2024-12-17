@@ -39,3 +39,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/denizhanMisirlioglu/denizhanMisirlioglu/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/denizhanMisirlioglu/denizhanMisirlioglu/output/github-snake.svg" />
 </picture>
+
+   <img src="https://raw.githubusercontent.com/denizhanMisirlioglu/denizhanMisirlioglu/main/bottomBanner.svg" alt="Top Banner" width="100%" />
+
