@@ -36,31 +36,13 @@
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn Logo" width="20" height="20" style="margin-right: 8px;">
     LinkedIn
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- Boşluk ekleme (5 tane non-breaking space) -->
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- Boşluk ekleme  -->
   <a href="https://yourwebsite.com" target="_blank" 
      style="display: inline-flex; align-items: center; text-decoration: none; background-color: #333333; color: white; border-radius: 6px; padding: 10px 20px; font-family: Arial, sans-serif; font-weight: bold;">
     <img src="https://cdn-icons-png.flaticon.com/512/1087/1087815.png" alt="Portfolio Logo" width="20" height="20" style="margin-right: 8px;">
     Portfolio
   </a>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ---
 
