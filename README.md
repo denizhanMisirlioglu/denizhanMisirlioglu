@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Üst Banner -->
-<img src="https://raw.githubusercontent.com/denizhanMisirlioglu/denizhanMisirlioglu/main/assets/banner.png" alt="Banner" width="100%" />
+<img src="https://raw.githubusercontent.com/denizhanMisirlioglu/denizhanMisirlioglu/main/assets/topBanner.png" alt="Banner" width="100%" />
 
 # 💻 Tech Stack:
 
