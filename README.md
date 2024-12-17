@@ -3,7 +3,7 @@
 <!-- Üst Banner -->
    <img src="https://raw.githubusercontent.com/denizhanMisirlioglu/denizhanMisirlioglu/main/topBanner.svg" alt="Top Banner" width="100%" />
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 
 </div>
 
