@@ -1,11 +1,46 @@
 <div align="center">
 
 <!-- Üst Banner -->
-   <img src="https://raw.githubusercontent.com/denizhanMisirlioglu/denizhanMisirlioglu/main/topBanner.svg" alt="Top Banner" width="100%" />
+<img src="https://raw.githubusercontent.com/denizhanMisirlioglu/denizhanMisirlioglu/main/topBanner.svg" alt="Top Banner" width="100%" />
 
-# 💻 Tech Stack
+---
+
+<!-- Yazı Bloğu -->
+<div style="display: inline-block; text-align: left; margin: 0 auto; width: 80%;">
+
+<p style="margin: 0; text-align: center;">
+I make elegantly professional 📱✨ **Mobile Applications** with <strong>Flutter</strong> 🐦, <strong>Kotlin</strong> 🟣, and <strong>Swift</strong> 🍎.  
+I also craft **UI/UX Designs** 🎨 and build clean, maintainable software projects. 🚀  
+</p>
+
+<p style="text-align: left;">
+<strong>🧐 Interested in full-stack development. Recent focus on mobile applications.</strong><br>
+<strong>💼 Currently a Freelance Mobile Developer</strong> and former <strong>Junior Android Developer.</strong><br>
+<strong>🎓 Graduated</strong> in Computer Engineering from Dokuz Eylül University.<br>
+<strong>🌱 Currently learning</strong> cross-platform solutions, Android & iOS native development.<br>
+<strong>📚 Reading:</strong> Startups, product design, and growth strategies.<br>
+<strong>🎯 Goal:</strong> To build impactful applications and contribute to great teams.
+</p>
 
 </div>
+
+---
+
+<!-- Social Links -->
+### 🔗 **Find me on**
+
+<p align="center">
+  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://yourwebsite.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23FF7139.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio">
+  </a>
+</p>
+
+---
+
+# 💻 Tech Stack
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
@@ -34,11 +69,15 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 
+---
+
+<!-- Snake Animation Genişletilmiş -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/denizhanMisirlioglu/denizhanMisirlioglu/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/denizhanMisirlioglu/denizhanMisirlioglu/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/denizhanMisirlioglu/denizhanMisirlioglu/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/denizhanMisirlioglu/denizhanMisirlioglu/output/github-snake.svg" style="width: 100%;" />
 </picture>
 
-   <img src="https://raw.githubusercontent.com/denizhanMisirlioglu/denizhanMisirlioglu/main/bottomBanner.svg" alt="Top Banner" width="100%" />
-
+<!-- Alt Banner -->
+<img src="https://raw.githubusercontent.com/denizhanMisirlioglu/denizhanMisirlioglu/main/bottomBanner.svg" alt="Bottom Banner" width="100%" />
+</div>
